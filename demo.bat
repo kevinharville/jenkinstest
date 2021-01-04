@@ -1,3 +1,3 @@
-echo "hello gitlab";
+echo "hello github - now on github";
 
 pause;
